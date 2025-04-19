@@ -1,0 +1,13 @@
+# Ignora archivos de configuración sensibles
+*.env
+
+# Ignora archivos Python compilados
+__pycache__/
+*.pyc
+
+# Ignora claves privadas
+*.pem
+
+# Ignora carpetas de entorno virtual
+venv/
+.env/
